@@ -16,6 +16,10 @@
     "link": "2048_game/index.html"
   },
   {
+    "name": "Sum Of Digits Caluclator",
+    "link": "Sum Of Digits Caluclator/sum.html"
+  }
+  {
     "name": "Age Calculator",
     "link": "Age Calculator/index.html"
   },
@@ -61,7 +65,7 @@
   }, 
   {
     "name": "Calculators",
-    "link": "Calculators"
+    "link": "calculatorspage.html"
   },
   {
     "name": "Candy Crush Clone",
@@ -118,10 +122,6 @@
   {
     "name": "Dice Game",
     "link": "Dice Game/dicee.html"
-  },
-  {
-    "name": "DIce Game Updated",
-    "link": "DIce Game Updated/dicee.html"
   },
   {
     "name": "Dictionary App",
@@ -440,7 +440,7 @@
     
   {
     "name": "Game Of Pong",
-    "link": "Game-of-pong/index.html"
+    "link": "Game of pong/index.html"
   }
   ,{
     "name":"InstagramMini",
